@@ -127,7 +127,6 @@ export default function Login() {
                       <p className="text-primary-300/70 text-xs mt-0.5">{feature.desc}</p>
                     </div>
                   </div>
-                  </div>
                 );
               })}
             </div>
